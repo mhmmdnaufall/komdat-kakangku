@@ -9,6 +9,10 @@ anggota :
 
 # Instalasi urlShortener di Server virtual
 
+untuk aplikasi web yang coba kami instalasi adalah web url shortener, yang ada pada link berikut, dan ini adalah hasil instalasi aplikasi web tersebut. aplikasi web ini dapat diakses pada http://34.125.194.140/
+
+Tahapannya :
+
 1. Create vm. kami menggunakan google cloud dan hosting milik teman kami
 
 2. login ke ssh nya, masukkan password dan uname
